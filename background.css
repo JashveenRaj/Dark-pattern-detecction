@@ -1,0 +1,5 @@
+body {
+    text-align: center; /* Center text horizontally */
+    position: relative; /* Establish relative positioning for absolute positioned elements */
+  }
+  
